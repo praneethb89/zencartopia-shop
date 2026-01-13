@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Sony WH-1000XM5",
+    "price": 349.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&q=80&w=1000",
+    "description": "Industry-leading noise canceling with two processors controlling 8 microphones for unprecedented noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air M2",
+    "price": 1199.00,
+    "category": "Laptops",
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&q=80&w=1000",
+    "description": "Supercharged by M2. Strikingly thin design. 18 hours of battery life. The ultimate laptop for creators."
+  },
+  {
+    "id": 3,
+    "name": "Nike Air Force 1",
+    "price": 110.00,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&q=80&w=1000",
+    "description": "The radiance lives on in the Nike Air Force 1 '07, the b-ball icon that puts a fresh spin on what you know best."
+  },
+  {
+    "id": 4,
+    "name": "Herman Miller Chair",
+    "price": 595.00,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?auto=format&fit=crop&q=80&w=1000",
+    "description": "A masterclass in ergonomic design. Breathable mesh back and adjustable lumbar support for all-day comfort."
+  },
+  {
+    "id": 5,
+    "name": "Canon EOS R6",
+    "price": 2499.00,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&q=80&w=1000",
+    "description": "High image quality with a 20MP Full-Frame CMOS Sensor and DIGIC X Image Processor."
+  },
+  {
+    "id": 6,
+    "name": "Premium Leather Bag",
+    "price": 180.00,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&q=80&w=1000",
+    "description": "Handcrafted from genuine full-grain leather. Features a spacious interior and durable brass hardware."
+  }
+]
