@@ -4,7 +4,7 @@ import { Sparkles, Facebook, Twitter, Instagram, Mail, Phone, MapPin } from 'luc
 
 const Footer = () => {
   return (
-    <footer className="bg-slate-900 text-slate-300 pt-16 pb-8 border-t border-slate-800">
+    <footer className="bg-slate-900 text-slate-300 pt-16 pb-8 border-t border-slate-800 transition-colors">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
           
@@ -43,21 +43,21 @@ const Footer = () => {
             </ul>
           </div>
 
-          {/* Contact Info */}
+          {/* Contact Info - UPDATED WITH YOUR DETAILS */}
           <div>
             <h3 className="text-white font-bold mb-4">Contact</h3>
             <ul className="space-y-4 text-sm">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-accent shrink-0" />
-                <span>123 Innovation Drive,<br/>Tech City, TC 90210</span>
+                <span>Vidyaranyapura,<br/>Bengaluru - 560097</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-accent shrink-0" />
-                <span>+1 (555) 123-4567</span>
+                <span>+91 7204427571</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-accent shrink-0" />
-                <span>support@zencartopia.com</span>
+                <span>praneeth@zencartopia.com</span>
               </li>
             </ul>
           </div>
